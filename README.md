@@ -2,12 +2,14 @@
 
 ## Quick Start
 
-cd /server
-npm install
-create .env
-npm start
+### Server
+      cd /server
+      npm install
+      create .env
+      npm start
 
+### Client
 
-cd /client
-npm install
-npm start
+      cd /client
+      npm install
+      npm start
